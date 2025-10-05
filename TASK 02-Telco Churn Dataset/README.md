@@ -1,15 +1,15 @@
----
 
-# 📂 Repository Name: **Telco-Customer-Churn-Prediction**
-
-## 🏢 Organization
+#  **Telco-Customer-Churn-Prediction**
+# 🏢 Organization
 
 **Project Title:** Telco Customer Churn Prediction
+
 **Developed by:** Huzaima Aneeq
-**Organization/Institution:** Department of Computer Science
+
+**Organization/Institution:** Developer Hub Corporation
+
 **Course/Task:** Machine Learning Task 02
 
----
 
 ## 🎯 Objective of the Task
 
@@ -102,3 +102,4 @@ It highlights the importance of **data preprocessing**, **model comparison**, an
 ---
 
 Would you like me to create and attach this as a downloadable `README.md` file for your GitHub repository?
+
