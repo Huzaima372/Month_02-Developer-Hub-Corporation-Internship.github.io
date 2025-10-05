@@ -1,46 +1,4 @@
-Here’s how you can structure your **GitHub repository** and create a **clear, professional `README.md`** for your “House Price Prediction (Images + Tabular Data)” project 👇
 
----
-
-## 🗂 **Repository Name and Organization**
-
-### **Repository Name**
-
-```
-house-price-prediction-multimodal
-```
-
-### **Folder Structure**
-
-```
-house-price-prediction-multimodal/
-│
-├── data/
-│   ├── austinHousingData.csv
-│   └── images/
-│
-├── notebooks/
-│   └── House_Price_Prediction.ipynb
-│
-├── models/
-│   └── trained_model.h5
-│
-├── results/
-│   ├── mae_rmse_metrics.txt
-│   ├── loss_curve.png
-│   └── actual_vs_predicted.png
-│
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 📘 **README.md Template**
-
-Below is a complete and ready-to-use **README.md** file you can include in your repository:
-
-```markdown
 # 🏠 House Price Prediction (Images + Tabular Data)
 
 ## 📌 Objective
@@ -133,10 +91,9 @@ This fusion aims to improve prediction accuracy beyond what’s possible using o
 
 ## 🚀 How to Run
 1. Clone the repository:
-   ```bash
    git clone https://github.com/<your-username>/house-price-prediction-multimodal.git
    cd house-price-prediction-multimodal
-````
+
 
 2. Install dependencies:
 
@@ -169,4 +126,5 @@ This fusion aims to improve prediction accuracy beyond what’s possible using o
 🔗 [LinkedIn / Portfolio (optional)]
 
 ```
+
 
